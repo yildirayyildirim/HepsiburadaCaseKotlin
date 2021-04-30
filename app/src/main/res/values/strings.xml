@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">HepsiburadaCaseStudy</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="movie">movie</string>
+    <string name="musicVideo">musicVideo</string>
+    <string name="software">software</string>
+    <string name="ebook">ebook</string>
+    <string name="all">all</string>
+    <string name="EnAzIkiHarfGiriniz">En Az İki Harf Giriniz</string>
+    <string name="movies">Movies</string>
+    <string name="musics">Music</string>
+    <string name="Apps">Apps</string>
+    <string name="books">Books</string>
+</resources>
